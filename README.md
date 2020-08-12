@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Parth 🦕
+**web and mobile app developer, and digital artist. 18 years old.** 
 
-<!--
-**psrth/psrth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+currently working as a frontend developer and UI/UX designer at IndyFit, a fitness startup. also a founder of @theorangeyakco.
 
-Here are some ideas to get you started:
+always looking for new projects to collab on, so drop me a message wherever.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Website](https://www.parthsharma.co) •
+[Instagram](https://www.instagram.com/parthsharma151/) •
+[Twitter](https://twitter.com/parthsharma_151) •
+[Behance](https://www.behance.net/psrth) •
+[Medium](https://www.medium.com/psrth) •
+[Mail](mailto:parthsharma151@gmail.com)
+
+[![Parth's github stats](https://github-readme-stats.vercel.app/api?username=psrth&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+(secretly a stegosaurus, but don't tell anyone)

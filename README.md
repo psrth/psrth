@@ -5,7 +5,7 @@ currently working as a frontend developer and UI/UX designer at IndyFit, a fitne
 
 always looking for new projects to collab on, so drop me a message wherever.
 
-[Website](https://www.parthsharma.co) •
+[Website](https://www.psrth.co) •
 [Instagram](https://www.instagram.com/parthsharma151/) •
 [Twitter](https://twitter.com/parthsharma_151) •
 [Behance](https://www.behance.net/psrth) •

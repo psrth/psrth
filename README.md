@@ -1,7 +1,8 @@
 ### Hi there, I'm Parth 🦕
-**web and mobile app developer, and digital artist. 18 years old.** 
+**web developer, digital artist from New Delhi, India. 18 years old.** 
 
-a fresher at BITS Pilani, India. currently working as a frontend developer and UI/UX designer at IndyFit, a fitness startup. also a founder of [@theorangeyakco.](https://theorangeyak.co)
+i'm a fresher at BITS Pilani, India. working on some cool stuff as the co-founder of [@theorangeyakco](https://theorangeyak.co). i'm usually at my terminal, with a cup of coffee and my headphones plugged in — but you might also find me day-trading crypto, listening to podcasts, debating, or learning something new.  
+
 
 always looking for new projects to collab on, so drop me a message wherever.
 
@@ -11,6 +12,6 @@ always looking for new projects to collab on, so drop me a message wherever.
 [Instagram](https://www.instagram.com/parthsharma151/) 
 
 
-[![Parth's github stats](https://github-readme-stats.vercel.app/api?username=psrth&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Parth's github stats](https://github-readme-stats.vercel.app/api?username=psrth&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 (secretly a stegosaurus, but don't tell anyone)

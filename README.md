@@ -1,13 +1,13 @@
 ### Hi there, I'm Parth 🦕
-**web developer, digital artist from New Delhi, India. 18 years old.** 
+**web developer, digital artist from New Delhi, India. 19 years old.** 
 
-i'm a fresher at BITS Pilani, India. working on some cool stuff as the co-founder of [@theorangeyakco](https://theorangeyak.co). i'm usually at my terminal, with a cup of coffee and my headphones plugged in — but you might also find me day-trading crypto, listening to podcasts, debating, or learning something new.  
+i'm a fresher at BITS Pilani, India. working on some cool stuff as the co-founder of [@orangeyakco](https://orangeyak.co). i'm usually at my terminal, with a cup of coffee and my headphones plugged in — but you might also find me day-trading crypto, listening to podcasts, debating, or learning something new.  
 
 
 always looking for new projects to collab on, so drop me a message wherever.
 
-[Website](https://www.psrth.co) •
-[Mail](mailto:parthsharma151@gmail.com) •
+[Website](https://psrth.io) •
+[Mail](mailto:psrth@protonmail.com) •
 [Behance](https://www.behance.net/psrth) •
 [Instagram](https://www.instagram.com/parthsharma151/) 
 

@@ -11,6 +11,6 @@ always looking for new projects to collab on, so drop me a message wherever.
 [instagram](https://www.instagram.com/psrthsharma/) •
 [spotify](https://open.spotify.com/user/parthsharma_151) 
 
-[![parth's github stats](https://github-readme-stats.vercel.app/api?username=psrth&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![parth's github stats](https://github-stats-extended.vercel.app/api?username=psrth&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 _(secretly a stegosaurus, but don't tell anyone)_
